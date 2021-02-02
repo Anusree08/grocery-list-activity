@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping List</title>
+    <link rel="stylesheet" href="style.css">
+    
+    
+</head>
+<body>
+    <header>
+        <p id="head">SHOPPING LIST</p>
+    </header>
+        <div class="menu">
+        <select name='drpdwn' id='drpdwn'>
+           
+            
+            <option value='Food'>Grocery</option>
+            <option value='Health'>Health</option>
+            <option value='Toiletry'>Toiletry</option>
+            <option value='Stationary'>Stationary</option>
+            <option value='Vegetable'>Vegetable</option>
+            <option value='Home appliance'>Home appliance</option>
+            <option value='all' >All</option>
+        </select>
+    </div>
+        <!-- <input type='submit' class="btn" name='displaybtn' value='Submit' id='displaybtn' /> -->
+
+        <table id='tablelist' class="hidden"> 
+            <!-- HEADING FORMATION -->
+            <thead>
+            <tr> 
+                <th>Sl.no</th> 
+                <th>Name</th> 
+                <th>Quantity</th> 
+                <th>Unit</th> 
+                <th>Department</th>
+                <th>Notes</th>
+            </tr>
+        </thead> 
+         <tbody id="tbl1">
+
+         </tbody>
+            
+        </table>
+        
+
+
+
+
+
+
+
+
+
+        
+        <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>

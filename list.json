@@ -1,0 +1,114 @@
+[
+    {
+        "Slno":"1",
+        "Name":"Pen",
+        "Quantity":"10",
+        "Unit":"Number",
+        "Department":"Stationary",
+        "Notes":"Blue ink"
+    },
+    {
+        "Slno":"2",
+        "Name":"Tissue Box",
+        "Quantity":"2",
+        "Unit":"Number",
+        "Department":"Stationary",
+        "Notes":"If box not available go for rolls"
+    },
+    {
+        "Slno":"3",
+        "Name":"Milk",
+        "Quantity":"1",
+        "Unit":"L",
+        "Department":"Food",
+        "Notes":"Check the expiry date"
+    },
+    {
+        "Slno":"4",
+        "Name":"Tea Powder",
+        "Quantity":"1",
+        "Unit":"kg",
+        "Department":"Food",
+        "Notes":"Kanan Devan"
+    },
+    {
+        "Slno":"5",
+        "Name":"Carrot",
+        "Quantity":"1",
+        "Unit":"kg",
+        "Department":"Vegetable",
+        "Notes":"Make sure it is fresh"
+    },
+    {
+        "Slno":"6",
+        "Name":"Mask",
+        "Quantity":"10",
+        "Unit":"Number",
+        "Department":"Health",
+        "Notes":"Surgical mask"
+    },
+    {
+        "Slno":"7",
+        "Name":"Honey",
+        "Quantity":"1",
+        "Unit":"kg",
+        "Department":"Food",
+        "Notes":"Dabur"
+    },
+    {
+        "Slno":"8",
+        "Name":"Hand Sanitizer",
+        "Quantity":"3",
+        "Unit":"Number",
+        "Department":"Health",
+        "Notes":"Flavoured sanitizers"
+    },
+    {
+        "Slno":"9",
+        "Name":"Shampoo",
+        "Quantity":"500",
+        "Unit":"mL",
+        "Department":"Toiletry",
+        "Notes":"Himalaya"
+    },
+    {
+        "Slno":"10",
+        "Name":"Chicken",
+        "Quantity":"2",
+        "Unit":"kg",
+        "Department":"Food",
+        "Notes":"Big pieces"
+    },
+    {
+        "Slno":"11",
+        "Name":"Rice",
+        "Quantity":"5",
+        "Unit":"kg",
+        "Department":"Food",
+        "Notes":"Periyar"
+    },
+    {
+        "Slno":"12",
+        "Name":"Toothpaste",
+        "Quantity":"2",
+        "Unit":"Number",
+        "Department":"Toiletry",
+        "Notes":"Colgate"
+    },
+    {
+        "Slno":"13",
+        "Name":"Battery",
+        "Quantity":"3",
+        "Unit":"Number",
+        "Department":"Home appliance",
+        "Notes":"For clock"
+    },
+    {
+        "Slno":"14",
+        "Name":"Cabbage",
+        "Quantity":"1",
+        "Unit":"Number",
+        "Department":"Vegetable",
+        "Notes":"nil"
+    }
+]
